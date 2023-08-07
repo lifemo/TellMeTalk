@@ -1,0 +1,10 @@
+__pycache__
+log
+*.pth*
+readmesam*
+*.jpg
+*.mp4
+run.sh
+source.png
+tools
+*.pt

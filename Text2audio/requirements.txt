@@ -1,0 +1,6 @@
+
+librosa
+matplotlib
+unidecode
+inflect
+nltk
